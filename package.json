@@ -1,0 +1,20 @@
+{
+  "name": "cv-yann-salvo-enduraw",
+  "version": "1.0.0",
+  "description": "CV interactif de Yann Salvo pour Enduraw - Product Manager spécialisé data & performance sportive",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "product-manager",
+    "data",
+    "sports",
+    "enduraw"
+  ],
+  "author": "Yann Salvo",
+  "license": "MIT"
+}
